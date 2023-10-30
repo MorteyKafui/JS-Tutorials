@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.333)
+    ),
+    url(./images/robot.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
